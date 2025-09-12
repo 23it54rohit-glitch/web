@@ -1,0 +1,27 @@
+body {
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.total{
+    height: 60vh;;
+    width: 70vw;
+    border: gray;
+    border-radius: 2rem;
+    text-align: center;
+    
+    backdrop-filter: blur(10px);
+
+}
+.name , .password , .email{
+    display: flex;
+    justify-content: center;
+}
+input{
+    he
+}
